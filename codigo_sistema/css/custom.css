@@ -1,0 +1,33 @@
+/* custom do boss events */
+
+.boss-scroll-participantes{
+height: 424px;
+overflow: scroll;
+overflow-x: hidden;
+}
+
+.boss-scroll-perguntas{
+max-height: 470px !important;
+overflow: scroll !important;
+overflow-x: hidden !important;
+}
+
+.participante-img{
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	padding: 0px;
+	background: none;
+	margin-right: 0;
+	border: 1px solid #F6F6F6;
+	background: #F6F6F6;
+}
+
+.participante-img-a{
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	width: 33px;
+}
+
+.box_entrada{
+	min-height: 90px !important;
+}

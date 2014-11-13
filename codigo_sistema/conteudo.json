@@ -1,0 +1,10 @@
+{
+"participantes":[
+    {"nome":"Hélida Costa",     "avatar":"1", "data":"10/01/2014", "status":"disponível"}, 
+    {"nome":"Cristofer Sousa",  "avatar":"2", "data":"11/01/2014", "status":"disponível"}, 
+    {"nome":"Rafael Peratello", "avatar":"3", "data":"12/01/2014", "status":"ocupado"},
+    {"nome":"Tamires Moreira",  "avatar":"4", "data":"11/01/2014", "status":"disponível"},
+    {"nome":"Leonardo Salgado", "avatar":"5", "data":"08/01/2014", "status":"off"},
+    {"nome":"José Carlos",      "avatar":"6", "data":"10/01/2014", "status":"disponível"}
+]
+}
