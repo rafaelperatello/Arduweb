@@ -74,7 +74,7 @@
             <li>
                 <a href="index.php">
                     <i class="fa fa-dashboard"></i>
-                    <span>Index</span>
+                    <span>Index </span> //Coment cloud9
                 </a>
             </li>
 
