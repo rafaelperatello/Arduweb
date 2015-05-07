@@ -7,6 +7,7 @@ http://192.168.0.177/?a=1&b=1&c=1&d=1
 #include <Ethernet.h>
 
 //Master
+//v2
 
 byte mac[] = {0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
 IPAddress ip(192,168,0,177);
